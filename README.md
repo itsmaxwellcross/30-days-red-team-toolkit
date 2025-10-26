@@ -15,7 +15,7 @@ Unauthorized access to computer systems is illegal under laws including the Comp
 
 ### Week 1: Reconnaissance & Initial Access (Days 1-7)
 - **Day 1:** [Understanding the Cyber Kill Chain](https://medium.com/@maxwellcross/9e496bbf91dd)
-- **Day 2:** [Advanced OSINT & External Reconnaissance](https://medium.com/@maxwellcross/f2de32dfc1b4)
+- **Day 2:** Advanced OSINT & External Reconnaissance
 - **Day 3:** Weaponization & Payload Development
 - **Day 4:** Social Engineering & Delivery Mechanisms
 - **Day 5:** Initial Exploitation Techniques
@@ -74,6 +74,7 @@ python3 01-reconnaissance/subdomain_enum.py example.com wordlists/subdomains.txt
 30-days-red-team-toolkit/
 ├── 01-reconnaissance/          # Days 1-2: OSINT and reconnaissance
 │   ├── subdomain_enum.py
+|   ├── web_checker.py
 │   ├── google_dorker.py
 │   ├── email_hunter.py
 │   ├── tech_fingerprinter.py
@@ -413,7 +414,7 @@ Contributions are welcome! Please:
 ## 📬 Contact & Support
 - **Series Author:** Maxwell Cross
 - **Blog:** [Maxwell Cross | Medium](https://medium.com/@maxwellcross)
-- **Issues:** GitHub Issues page
+- **Issues:** [GitHub Issues page](https://github.com/itsmaxwellcross/30-days-red-team-toolkit/issues)
 - **Discussion:** #30DaysOfRedTeam
 
 ## ⚖️ License
