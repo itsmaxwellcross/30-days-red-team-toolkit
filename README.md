@@ -15,7 +15,7 @@ Unauthorized access to computer systems is illegal under laws including the Comp
 
 ### Week 1: Reconnaissance & Initial Access (Days 1-7)
 - **Day 1:** [Understanding the Cyber Kill Chain](https://medium.com/@maxwellcross/9e496bbf91dd)
-- **Day 2:** Advanced OSINT & External Reconnaissance
+- **Day 2:** [Advanced OSINT & External Reconnaissance](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-2-advanced-osint-external-reconnaissance-finding-what-they-dont-f2de32dfc1b4)
 - **Day 3:** Weaponization & Payload Development
 - **Day 4:** Social Engineering & Delivery Mechanisms
 - **Day 5:** Initial Exploitation Techniques
