@@ -22,6 +22,7 @@ wheels/
 venv/
 ENV/
 env/
+coderes.py
 
 # Output and results
 *.txt

@@ -17,9 +17,9 @@ Unauthorized access to computer systems is illegal under laws including the Comp
 - **Day 1:** [Understanding the Cyber Kill Chain](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-1-understanding-the-kill-chain-your-roadmap-to-domain-admin-9e496bbf91dd)
 - **Day 2:** [Advanced OSINT & External Reconnaissance](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-2-advanced-osint-external-reconnaissance-finding-what-they-dont-f2de32dfc1b4)
 - **Day 3:** [Weaponization & Payload Development](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-3-weaponization-building-payloads-that-evade-detection-6268da00344e)
-- **Day 4:** Social Engineering & Delivery Mechanisms
-- **Day 5:** Initial Exploitation Techniques
-- **Day 6:** Post-Exploitation & Situational Awareness
+- **Day 4:** [Social Engineering & Delivery Mechanisms](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-4-delivery-social-engineering-phishing-infrastructure-4d46f27cbd35)
+- **Day 5:** [Initial Exploitation Techniques](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-5-initial-exploitation-techniques-from-shell-to-system-access-fbb73d60dc27)
+- **Day 6:** [Post-Exploitation & Situational Awareness](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-6-post-exploitation-youre-in-now-what-254b09f2688e)
 - **Day 7:** Week 1 Integration & Practice
 
 ### Week 2: Persistence & Command Control (Days 8-14)
