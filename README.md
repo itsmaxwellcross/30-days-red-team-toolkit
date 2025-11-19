@@ -20,7 +20,7 @@ Unauthorized access to computer systems is illegal under laws including the Comp
 - **Day 4:** [Social Engineering & Delivery Mechanisms](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-4-delivery-social-engineering-phishing-infrastructure-4d46f27cbd35)
 - **Day 5:** [Initial Exploitation Techniques](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-5-initial-exploitation-techniques-from-shell-to-system-access-fbb73d60dc27)
 - **Day 6:** [Post-Exploitation & Situational Awareness](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-6-post-exploitation-youre-in-now-what-254b09f2688e)
-- **Day 7:** Week 1 Integration & Practice
+- **Day 7:** [Week 1 Integration & Practice](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-7-week-1-integration-practice-4840f85389a3)
 
 ### Week 2: Persistence & Command Control (Days 8-14)
 - **Day 8:** Windows Persistence Mechanisms
