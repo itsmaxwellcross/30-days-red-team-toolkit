@@ -31,7 +31,6 @@ coderes.py
 *.xlsx
 *.log
 results/
-output/
 payloads/*.exe
 payloads/*.ps1
 payloads/*.vbs
