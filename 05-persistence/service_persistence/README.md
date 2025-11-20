@@ -115,6 +115,7 @@ cleanup_results = orchestrator.cleanup_all()
 ```
 
 ## Architecture
+```
 service_persistence/
 ├── config.py                  # Configuration and constants
 ├── main.py                    # CLI entry point
@@ -133,6 +134,7 @@ service_persistence/
 │
 └── output/
 └── removal.py            # Script generation
+```
 
 ## Service Creation Methods
 

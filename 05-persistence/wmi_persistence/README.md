@@ -117,6 +117,7 @@ orchestrator.remove_all_created()
 ```
 
 ## Architecture
+```
 wmi_persistence/
 ├── config.py                  # Configuration and constants
 ├── main.py                    # CLI entry point
@@ -139,6 +140,7 @@ wmi_persistence/
 │
 └── output/
 └── removal.py            # Removal script generation
+```
 
 ## WMI Persistence Methods
 
