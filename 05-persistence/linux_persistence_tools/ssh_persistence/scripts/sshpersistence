@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+from ssh_persistence.cli import main
+main()
