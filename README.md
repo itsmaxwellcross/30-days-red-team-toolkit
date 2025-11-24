@@ -431,6 +431,10 @@ MIT License - See LICENSE file for details.
 - Contributors and testers
 - Everyone following #30DaysOfRedTeam
 
+🎉 Support
+
+This project is proudly supported by [GitBook](https://www.gitbook.com/), who provides our documentation hosting under their Community Plan. We’re grateful for their support in helping us build high-quality, accessible red team learning resources.
+
 ---
 
 **Remember:** The difference between a red teamer and a criminal is authorization. Always get permission. Always act ethically. Always follow the law.
