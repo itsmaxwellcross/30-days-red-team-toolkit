@@ -1,0 +1,3 @@
+#!/usr/bin/env python3
+from c2_payload_generator.cli import main
+main()
