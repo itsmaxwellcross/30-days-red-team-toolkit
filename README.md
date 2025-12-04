@@ -24,8 +24,8 @@ Unauthorized access to computer systems is illegal under laws including the Comp
 
 ### Week 2: Persistence & Command Control (Days 8-14)
 - **Day 8:** [Windows Persistence Mechanisms](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-8-windows-persistence-mechanisms-bee31a6ba75d)
-- **Day 9:** Linux Persistence Techniques
-- **Day 10:** Building Custom C2 Infrastructure
+- **Day 9:** [Linux Persistence Techniques](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-9-linux-persistence-techniques-surviving-in-unix-territory-d654252c61c5)
+- **Day 10:** [Building Custom C2 Infrastructure](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-10-building-custom-c2-infrastructure-your-lifeline-to-compromised-a2fae44f41a0)
 - **Day 11:** C2 Communication Channels
 - **Day 12:** Data Exfiltration Methods
 - **Day 13:** Operational Security & Anti-Forensics
