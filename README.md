@@ -27,7 +27,7 @@ Unauthorized access to computer systems is illegal under laws including the Comp
 - **Day 9:** [Linux Persistence Techniques](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-9-linux-persistence-techniques-surviving-in-unix-territory-d654252c61c5)
 - **Day 10:** [Building Custom C2 Infrastructure](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-10-building-custom-c2-infrastructure-your-lifeline-to-compromised-a2fae44f41a0)
 - **Day 11:** [C2 Communication Channels](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-11-c2-communication-channels-when-your-primary-lifeline-gets-cut-1f368c53555e)
-- **Day 12:** Data Exfiltration Methods
+- **Day 12:** [Data Exfiltration Methods](https://medium.com/30-days-of-red-team/30-days-of-red-team-day-12-data-exfiltration-methods-3d030ca56cc0?postPublishedType=initial)
 - **Day 13:** Operational Security & Anti-Forensics
 - **Day 14:** Week 2 Integration & Practice
 
